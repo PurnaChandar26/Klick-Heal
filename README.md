@@ -9,7 +9,7 @@ Klick Heal is a cutting-edge Hospital Management System designed to revolutioniz
 ### Key Features
 
 1.  Contactless Interaction: Voice-Activated Commands
-    -   Achieve a seamless user experience through advanced voice-operated commands.
+-   Achieve a seamless user experience through advanced voice-operated commands.
 2.  Efficient Data Access
     -   Streamlined access to medical history, prescriptions, and consultations for improved efficiency.
 3.  Security
