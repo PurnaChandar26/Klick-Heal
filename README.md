@@ -13,7 +13,7 @@ Klick Heal is a cutting-edge Hospital Management System designed to revolutioniz
 2.  Efficient Data Access
 -   Streamlined access to medical history, prescriptions, and consultations for improved efficiency.
 3.  Security
-    -   Robust identity verification using advanced face recognition technology to ensure patient data security.
+-   Robust identity verification using advanced face recognition technology to ensure patient data security.
 4.  Innovative Communication
     -   Real-time chat functionality for instant communication between patients and doctors.
 5.  AWS Integration
