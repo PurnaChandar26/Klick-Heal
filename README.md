@@ -17,7 +17,7 @@ Klick Heal is a cutting-edge Hospital Management System designed to revolutioniz
 4.  Innovative Communication
 -   Real-time chat functionality for instant communication between patients and doctors.
 5.  AWS Integration
- -   Leveraging Amazon Web Services for a secure and high-performance system.
+-   Leveraging Amazon Web Services for a secure and high-performance system.
 
 Project Features
 ----------------
