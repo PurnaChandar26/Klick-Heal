@@ -1,7 +1,7 @@
 Klick Heal - Hospital Management System
 =======================================
 
-Project Abstract
+Project Abstract 
 ----------------
 
 Klick Heal is a cutting-edge Hospital Management System designed to revolutionize healthcare operations. With a focus on contactless interaction, efficient data access, security, innovative communication, and seamless AWS integration, Klick Heal aims to provide a robust and user-friendly solution for healthcare management.
